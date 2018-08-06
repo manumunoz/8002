@@ -74,12 +74,14 @@ class Player(BasePlayer):
     belief_endo= models.BooleanField() # Reported belief on P3's verification
     random_group = models.BigIntegerField()
     player_role = models.IntegerField()
+    duplicate = models.IntegerField()
 
     def assigning_values(self):
         self.random_group = int(Constants.data_player1[self.id_in_group][4])
         self.rnum = int(Constants.data_player1[self.id_in_group][5])
         self.report_1 = int(Constants.data_player1[self.id_in_group][6])
         self.player_role = 2
+        self.duplicate = int(Constants.data_player1[self.id_in_group][7])
 
 
     def random_display(self):

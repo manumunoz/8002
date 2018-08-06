@@ -1,82 +1,82 @@
-id,treat,code_pay,role,group,hidden_number,report1,report2,report3,belief1,belief2,belief3,belief_observed,observed,start_time,chosen_card,gender,ethnicity,race,age,education,state,income,q1,q2,q3
-1,ENDO2,j5wv5klbdlzw7hta,P1,1585152288,8,8,,,,30,,Obseerved,,2018-08-03 17:20:44.470631+00:00,11,Male,Non hispanic,White,25,Some college,32,"$40,000 - $49,999",The goal would simply hope p2 picks a higher number.,1,The directions were a little bit boring.
-2,ENDO2,kayot9h5dlzw7hta,P1,2131721683,14,14,,,,14,,Unobserved,,2018-08-03 17:48:21.637874+00:00,66,Male,Hispanic,White,28,College diploma,10,"< $10,000",A trust fall kind of game.,4,I don't know
-3,ENDO2,w5131z6ndlzw7hta,P1,9327479553,8,8,,,,8,,Obseerved,,2018-08-03 18:04:47.125485+00:00,67,Male,Non hispanic,White,30,Some college,3,"$20,000 - $29,999",check if people are truthful,5,The instruction could be clearer
-4,ENDO2,rxx64aladlzw7hta,P1,6083529126,10,30,,,,30,,Obseerved,,2018-08-03 19:34:56.642338+00:00,87,Male,Non hispanic,White,36,Masters degree,37,"$100,000 - $119,999",A study on honesty and trust between two people with limited communication,3,?
-5,ENDO2,gu7vvlk7dlzw7hta,P1,9314135758,10,10,,,,10,,Obseerved,,2018-08-03 20:10:42.959000+00:00,43,Female,Non hispanic,White,38,College diploma,12,"$50,000 - $59,999",Not sure,2,None
-6,ENDO2,umi31extdlzw7hta,P1,3180348364,6,6,,,,20,,Obseerved,,2018-08-03 21:15:45.484928+00:00,78,Male,Non hispanic,White,65,College diploma,5,"$50,000 - $59,999",The goal is to see how two participants will trust each other and if they will blindly cooperate with each other.,4,By explaining why all of this is happening.
-7,ENDO2,f050ts3ddlzw7hta,P1,9484596819,11,11,,,,30,,Unobserved,,2018-08-03 22:01:23.138292+00:00,69,Female,Non hispanic,White,24,Some college,10,"$60,000 - $69,999",To see if the P2 would report the correct hidden number or report a number that would earn them more money for the task.,3,Instructions could be more clear
-8,ENDO2,1vtj45hsdlzw7hta,P1,8870595475,6,6,,,,20,,Obseerved,,2018-08-03 22:49:36.121105+00:00,78,Female,Non hispanic,White,36,College diploma,44,"< $10,000","One person sees a hidden number and tells the second person. The second person can believe the first, and/or look at the hidden number themselves. Then the second person sends back a number, and that number is multiplied by $0.05 to determine how much they make.",1,no idea
-9,ENDO2,b00y1zxgdlzw7hta,P1,6385235767,30,30,,,,30,,Obseerved,,2018-08-03 23:07:32.118862+00:00,52,Female,Non hispanic,White,26,Some college,50,"$10,000 - $19,999",To test how people believe that others would behave in a collaborative game.,1,Nothing. It was all very clear and well laid out.
-10,ENDO2,cx8dt6jcdlzw7hta,P1,4093635611,10,11,,,,10,,Unobserved,,2018-08-03 23:22:47.258196+00:00,68,Female,Non hispanic,White,26,College diploma,49,"$60,000 - $69,999",I don't know.,3,N/A
-11,ENDO2,xsu438omdlzw7hta,P1,8638472572,1,1,,,,3,,Obseerved,,2018-08-03 23:35:13.622020+00:00,1,Female,Non hispanic,White,53,High school or equivalent,40,"$60,000 - $69,999",attempting to determine the outcome of a second players report,3,seems fine as is
-12,ENDO2,kqjd70radlzw7hta,P1,3679130841,7,7,,,,10,,Unobserved,,2018-08-04 00:25:27.385699+00:00,90,Male,Hispanic,White,37,College diploma,5,"$50,000 - $59,999",to see if people would be tempted to cheat if they knew no one would check their work,3,no real way.
-13,ENDO2,951xvggudlzw7hta,P1,1590239915,28,28,,,,30,,Obseerved,,2018-08-04 00:27:03.901773+00:00,136,Male,Non hispanic,White,43,High school or equivalent,43,"$30,000 - $39,999",earn as much money as possible.,3,higher pay
-14,ENDO2,bdh17enbdlzw7hta,P1,9667016915,14,14,,,,14,,Obseerved,,2018-08-04 00:42:59.577691+00:00,66,Male,Non hispanic,White,25,Some college,32,"$40,000 - $49,999",play game with other worker and earn money.,3,it can be more attractive
-15,ENDO2,8goez8dqdlzw7hta,P1,4244662753,8,8,,,,20,,Unobserved,,2018-08-04 00:44:30.507191+00:00,144,Female,Non hispanic,Black/African American,25,College diploma,32,I do not wish to report my income.,The goal is to maximize earnings.,4,Nothing
-16,ENDO2,x7ay7a35dlzw7hta,P1,7687625065,7,7,,,,7,,Obseerved,,2018-08-04 00:44:31.635421+00:00,90,Female,Non hispanic,White,36,College diploma,30,"$40,000 - $49,999",Determining others thoughts,3,nothing
-17,ENDO2,82hjc4a1dlzw7hta,P1,1079863843,12,30,,,,12,,Obseerved,,2018-08-04 00:53:35.377408+00:00,105,Male,Non hispanic,White,42,High school or equivalent,15,"$10,000 - $19,999",The goal is to get P2 to say the same number as P1 and get 5x the payout of whatever number (1-30) both P1 and P2 say.,3,"I can't think of anything, it's pretty good."
-18,ENDO2,ljpt88d0dlzw7hta,P1,3964457977,8,8,,,,8,,Obseerved,,2018-08-04 01:00:24.311562+00:00,67,Female,Non hispanic,White,33,Some college,10,"$60,000 - $69,999",How close you come to a guess with another person.,1,none
-19,ENDO2,k8tgwtpfdlzw7hta,P1,8556169555,10,10,,,,13,,Obseerved,,2018-08-04 01:05:47.833559+00:00,87,Female,Non hispanic,Black/African American,23,College diploma,32,I do not wish to report my income.,People will follow the instructions given if there's decision for money.,4,Thanks
-20,ENDO2,c183bnj9dlzw7hta,P1,6102244707,24,24,,,,24,,Obseerved,,2018-08-04 01:20:50.963391+00:00,89,Female,Non hispanic,Native Hawaiian/Pacific Islander,29,Some college,43,"< $10,000",I think the goal of this study is to see how trustful and honest people are with each other.,1,I don't think there's any reason to improve it. It was a pleasant experience.
-21,ENDO2,cvh7ka6udlzw7hta,P1,7967273336,7,10,,,,10,,Obseerved,,2018-08-04 01:21:28.194614+00:00,33,Female,Non hispanic,White,28,Some college,38,"$30,000 - $39,999",Guessing the probability of a number that someone picks,4,Make the instructions more clear such as the graph
-22,ENDO2,2lfbd04ldlzw7hta,P1,4459986344,25,25,,,,18,,Obseerved,,2018-08-04 01:46:03.042041+00:00,56,Male,Non hispanic,Hispanic/Latino/Latina,23,College diploma,11,"$30,000 - $39,999",Say the highest number,1,This as a fine study
-23,ENDO2,j8cgptbqdlzw7hta,P1,5771375083,6,30,,,,30,,Unobserved,,2018-08-04 02:04:32.071445+00:00,24,Male,Non hispanic,White,32,Some college,46,"$40,000 - $49,999",To find out how people respond when given a chance to maximize their profit from a task.,1,"By making the multiplier or value of possible hidden cards higher, and taking away the ability for P2 to observe the hidden number. ;-)"
-24,ENDO2,77g837hfdlzw7hta,P1,2001233140,11,11,,,,11,,Obseerved,,2018-08-04 02:05:31.168154+00:00,88,Male,Non hispanic,White,34,Masters degree,18,"$40,000 - $49,999","I would say this study is all about honesty. According to the instructions, I could have given P2 any number. Furthermore, P2 could report any number.",1,I have no complaints. The instructions were clear. The test questions were clear. This is well put together. Great job!
-25,ENDO2,4ns46pnsdlzw7hta,P1,6434179011,9,9,,,,9,,Obseerved,,2018-08-04 02:16:48.892508+00:00,57,Female,Non hispanic,White,45,Some college,49,"$60,000 - $69,999",i would say it is about trying to guess what others will do.,4,im not sure
-26,ENDO2,re6m8bhwdlzw7hta,P1,4763335338,25,25,,,,25,,Unobserved,,2018-08-04 02:37:10.674468+00:00,56,Male,Non hispanic,White,31,College diploma,22,"$50,000 - $59,999","The goal of the study would be to see if p2 reports the number p1 reported to them, or if they check what the actual number is.  Both players can lie in order to receive higher bonus.",1,The game took me a few re-reads to understand. I felt it could have been explained easier.
-27,ENDO2,y3fwd1yddlzw7hta,P1,8065679266,10,10,,,,10,,Obseerved,,2018-08-04 02:57:04.661454+00:00,102,Female,Non hispanic,White,48,College diploma,46,"< $10,000",The goal is to click on the highest paying card as P1 and send a message to P2 and hope that P2 reports the highest paying outcome.,1,I thought this was written well and I understand what  was explained in the instructions. I thought it was challenging and fun. I wouldn't change a thing.
-28,ENDO2,dumx4q9kdlzw7hta,P1,3687624163,10,10,,,,10,,Unobserved,,2018-08-04 03:23:33.244824+00:00,81,Female,Non hispanic,White,27,College diploma,50,"< $10,000",I think the goal of this study was to see if people would be honest when there was a monetary reward.,1,This survey was great!
-29,ENDO2,uik8whf4dlzw7hta,P1,4254073293,1,20,,,,20,,Obseerved,,2018-08-04 16:01:07.080387+00:00,1,Female,Non hispanic,Black/African American,26,College diploma,38,"$80,000 - $99,999",See whether people are willing to work together,2,None
-30,ENDO2,w3mugf2zdlzw7hta,P1,9832808335,11,11,,,,13,,Obseerved,,2018-08-04 16:07:25.072663+00:00,58,Female,Non hispanic,Hispanic/Latino/Latina,33,Some college,23,"< $10,000",I think it would be do people report information correctly or do the report information incorrectly just to get a higher bonus.,1,The instruction portion seems overly complicated for how easy the task really is.
-31,ENDO2,9tedljupdlzw7hta,P1,5808359760,22,22,,,,22,,Obseerved,,2018-08-04 16:56:50.603506+00:00,39,Female,Non hispanic,White,24,Some college,10,"$20,000 - $29,999",To see whether people would lie about the hidden number to increase their payment,2,Nothing
-32,ENDO2,ssu2jwogdlzw7hta,P1,8678680493,12,12,,,,12,,Obseerved,,2018-08-04 17:37:11.379305+00:00,77,Male,Non hispanic,White,33,Some college,37,"$20,000 - $29,999",unsure,4,unsure
-33,ENDO2,t81r4vr2dlzw7hta,P1,2806049031,7,30,,,,30,,Obseerved,,2018-08-04 17:49:43.494707+00:00,17,Female,Non hispanic,White,42,College diploma,36,"$40,000 - $49,999",If we will honestly report the number we chose.,1,Nothing.  Very easy to understand.
-34,ENDO2,dwniwu21dlzw7hta,P1,8924458248,13,13,,,,13,,Obseerved,,2018-08-04 18:10:29.757762+00:00,70,Male,Non hispanic,White,37,College diploma,38,"$60,000 - $69,999",To determine how individuals think when faced with whether or not they trust the information provided by some random person.,1,Nothing comes to mind.
-35,ENDO2,68dau4qsdlzw7hta,P1,6667413428,9,9,,,,9,,Obseerved,,2018-08-04 18:20:32.381476+00:00,53,Female,Non hispanic,White,22,Some college,14,"$50,000 - $59,999",to pick a random number and choose whether or not to tell the other play the truth about the number you chose and if they will believe what you told them,1,made the instruction page smaller
-36,ENDO2,mwmcb2vvdlzw7hta,P1,9513762590,11,11,,,,8,,Obseerved,,2018-08-04 18:20:44.819459+00:00,44,Male,Non hispanic,Middle Eastern/North African,22,Some college,3,"$40,000 - $49,999",The goal is to have your teammate or friend guess the number that you have picked on a graphic sheet.,3,"More thorough instructions, overall very interesting!"
-37,ENDO2,a56mjdj0dlzw7hta,P1,6287060845,11,11,,,,11,,Obseerved,,2018-08-04 19:15:44.724518+00:00,64,Male,Non hispanic,White,32,College diploma,32,"$120,000 - $149,999","It was to assess the honesty of the second player after he or she receives the hidden number, knowing that the higher the number is, the more everyone makes.",1,The instructions could have been condensed a bit.
-38,ENDO2,rnc3p1w4dlzw7hta,P1,6513465617,25,25,,,,30,,Unobserved,,2018-08-04 20:10:03.963554+00:00,56,Male,Non hispanic,White,61,College diploma,33,"$40,000 - $49,999",This is a study to see how many people might cheat when they think there is a very good chance of getting away with it.,3,I can't think of anything to write here.
-39,ENDO2,b0w4d5xxdlzw7hta,P1,7602448145,7,7,,,,7,,Unobserved,,2018-08-04 20:45:08.262730+00:00,99,Male,Non hispanic,White,36,Masters degree,15,"$80,000 - $99,999",pick a lucky number,1,NA
-40,ENDO2,06va6susdlzw7hta,P1,3951702808,11,11,,,,11,,Unobserved,,2018-08-05 13:19:54.853240+00:00,88,Male,Non hispanic,White,33,College diploma,35,"$60,000 - $69,999",To see if player two trusts the message sent by player one,2,"I know it was explained well, but I was still a little confused about the rules. I truly hope I did it right"
-41,ENDO2,bsmwqeiddlzw7hta,P1,9049599350,10,30,,,,30,,Obseerved,,2018-08-05 13:59:37.230625+00:00,59,Male,Non hispanic,White,54,Masters degree,43,"$60,000 - $69,999","To find out my honesty in a game that has no accountability, and my belief about the honesty of other players in the game.",3,"Considering what I believe you were testing, the instructions were adequate."
-42,ENDO2,qwv2a0iudlzw7hta,P1,5027484685,11,11,,,,11,,Obseerved,,2018-08-05 14:30:46.573153+00:00,58,Female,Non hispanic,Native Hawaiian/Pacific Islander,27,College diploma,46,"$70,000 - $79,999",Following instructions,1,Being able to see what number the other person picked
-43,ENDO2,2dsr8uqndlzw7hta,P1,3028297253,11,11,,,,11,,Obseerved,,2018-08-05 14:37:23.370344+00:00,116,Female,Non hispanic,White,30,College diploma,5,"$50,000 - $59,999",to be honest about playing the game and not lie to the other player,1,"Nothing to improve,I was completely satisfied."
-44,ENDO2,epdgea7jdlzw7hta,P1,8442086792,11,11,,,,11,,Obseerved,,2018-08-05 14:47:57.646287+00:00,25,Female,Non hispanic,Hispanic/Latino/Latina,36,College diploma,35,"< $10,000","The goal was to determine if two players were given the opportunity to earn money, would each participant believe in reporting earnings fairly.",3,I would like the opportunity to choose a number twice. Then I could report the bigger number chosen if given the choice. It would make the survey more interesting.
-45,ENDO2,xbmib5undlzw7hta,P1,7084765326,11,11,,,,11,,Obseerved,,2018-08-05 15:04:57.084259+00:00,88,Female,Non hispanic,White,43,Some college,35,"$80,000 - $99,999",paying attention,3,"n/a, good survey"
-46,ENDO2,etfkkd2rdlzw7hta,P1,5683739503,14,14,,,,14,,Obseerved,,2018-08-05 15:06:33.944623+00:00,66,Male,Non hispanic,White,27,Masters degree,33,"$60,000 - $69,999",For P2 to report the proper number,1,Some of the instructions were tough to understand
-47,ENDO2,i5k6rlqudlzw7hta,P1,1446264353,25,25,,,,30,,Obseerved,,2018-08-05 15:08:15.902538+00:00,56,Male,Non hispanic,White,41,High school or equivalent,15,"$20,000 - $29,999","Well you say the goal is for me to get p2 to select the correct number, but some would say that really clicking the largest number for the best bonus is best.",2,"the chart showing how many times each number was in the drawing was a bit confusing at first. Once I figured it out, I got it, but I actually got one of the questions wrong at first."
-48,ENDO2,91k7n4hodlzw7hta,P1,2777140677,9,9,,,,9,,Obseerved,,2018-08-05 15:10:23.744842+00:00,31,Male,Non hispanic,White,49,Some college,43,"$80,000 - $99,999",decision making study,3,you are doing a good job
-49,ENDO2,pk1zt1erdlzw7hta,P1,6864761201,10,10,,,,10,,Obseerved,,2018-08-05 15:12:23.049049+00:00,68,Male,Non hispanic,White,27,High school or equivalent,33,I do not wish to report my income.,A game where one player shares information and another player can use the information received.,3,Everything seemed fine to me.
-50,ENDO2,5qgzdm47dlzw7hta,P1,7447888413,11,11,,,,20,,Obseerved,,2018-08-05 15:12:26.200540+00:00,69,Male,Non hispanic,White,72,Professional post-secondary degree or doctoral degree,31,"$70,000 - $79,999","It depends upon the person. For some, it will be to maximize the amount they make, so  P2 would be inclined to report a big number. To others, they are bound by their ethical view, and the goal would be to play honestly and hope for the best.",2,"I have not suggestions, it was fine."
-51,ENDO2,qkjyh6widlzw7hta,P1,3305406055,9,9,,,,30,,Unobserved,,2018-08-05 15:22:53.347153+00:00,35,Female,Non hispanic,Black/African American,27,College diploma,20,"$70,000 - $79,999",personal integrity vs monetary benefits,4,n/a
-52,ENDO2,50xu1qssdlzw7hta,P1,1663054570,9,9,,,,9,,Obseerved,,2018-08-05 15:23:31.156374+00:00,79,Female,Non hispanic,White,50,College diploma,47,"$50,000 - $59,999",How honest people are?,3,"I don't know, I believe it was done to get the best results for the study."
-53,ENDO2,elqu835udlzw7hta,P1,9985643252,7,7,,,,25,,Obseerved,,2018-08-05 15:31:22.606573+00:00,71,Female,Non hispanic,Hispanic/Latino/Latina,34,College diploma,18,"$60,000 - $69,999",a game between being honest or making more money.,3,nothing
-54,ENDO2,wcgr5p3wdlzw7hta,P1,1354491031,16,30,,,,30,,Obseerved,,2018-08-05 15:52:01.520085+00:00,9,Female,Non hispanic,White,40,College diploma,10,"< $10,000",The goal is to see if people read instructions and if they will send false information in order to achieve higher payouts.,1,Nothing off hand
-55,ENDO2,n5rnamrrdlzw7hta,P1,1648882402,12,24,,,,24,,Obseerved,,2018-08-05 16:21:00.057269+00:00,105,Female,Non hispanic,White,30,College diploma,46,"$30,000 - $39,999",How people react in different situations.,2,n/a
-56,ENDO2,1ffhsdbqdlzw7hta,P1,9540600050,26,26,,,,26,,Obseerved,,2018-08-05 16:23:02.168066+00:00,42,Female,Non hispanic,Hispanic/Latino/Latina,23,Some college,10,"$20,000 - $29,999",Try to guess the same number that I chose,2,nothing
-57,ENDO2,yespqw3kdlzw7hta,P1,3649757040,9,9,,,,9,,Obseerved,,2018-08-05 16:23:31.679846+00:00,57,Female,Non hispanic,White,63,College diploma,10,"$120,000 - $149,999",I am not sure. I think it was to see if I would honestly report the hidden number or something higher to earn more money.,1,It was fine as is.
-58,ENDO2,h4096hk0dlzw7hta,P1,3343961418,7,7,,,,7,,Obseerved,,2018-08-05 16:24:38.565918+00:00,90,Female,Non hispanic,White,36,College diploma,35,"$60,000 - $69,999",Trying to convince the other player to report the hidden number,1,No way
-59,ENDO2,0g7b0hnldlzw7hta,P1,5279188668,7,7,,,,10,,Obseerved,,2018-08-05 16:25:38.046817+00:00,71,Female,Non hispanic,White,29,Some college,3,"$20,000 - $29,999",To see if people will lie to get a bigger payout.,1,I don't think the survey needs any improvements.
-60,ENDO2,epewt6widlzw7hta,P1,4387666970,14,30,,,,30,,Obseerved,,2018-08-05 16:46:19.965012+00:00,66,Male,Non hispanic,White,28,Some college,32,"< $10,000","To understand how people choose to work together towards a mutual goal and whether they are willing to look the other way from deception if it means they'd receive a greater reward as well. Also to see if the one who sends the final message is skeptical of the player who reports their number by choosing to look at the hidden number or not, especially if the number they send is one of the highest ones and less likely. Also whether they choose to report the number that the first person sent after choosing to look at the hidden number and seeing that it was a deceit if it means they'd get a greater reward, or if they would choose to be honest and get a lower amount.",3,Nothing that I can think of.
-61,ENDO2,1k5c6hdedlzw7hta,P1,4202135790,9,9,,,,9,,Obseerved,,2018-08-05 17:02:08.875363+00:00,22,Male,Non hispanic,White,62,Professional post-secondary degree or doctoral degree,32,"$30,000 - $39,999",To test the honesty of study participants to see how accurately they reported information that would determine their bonus payment or whether someone cheated to obtain a higher bonus.,1,I can't think of anything.  I would love ot know the final results and the degree of honesty among study participants.
-62,ENDO2,quw6ttgldlzw7hta,P1,7804494393,10,30,,,,30,,Obseerved,,2018-08-05 17:05:30.428041+00:00,43,Male,Non hispanic,White,24,Masters degree,47,"$10,000 - $19,999","If I had to guess, the study is evaluating decision making based on different criteria. The study involves explaining a game and describing its ostensible objective as getting a partner to report a ""correct"" answer, but the monetary reward for the game incentivizes lying to the partner which benefits both participants. I expect the study is evaluating influences on whether participants ""play by the rules"" or decide to follow the monetary incentive.",2,N/A
-63,ENDO2,1zr7oujedlzw7hta,P1,9479701720,1,1,,,,12,,Obseerved,,2018-08-05 17:05:43.600226+00:00,1,Female,Non hispanic,White,51,Some college,44,"$30,000 - $39,999",Following directions,3,I liked it. Can't think of any improvement
-64,ENDO2,xy9gwpdjdlzw7hta,P1,5092292425,11,11,,,,18,,Obseerved,,2018-08-05 17:09:00.814207+00:00,58,Female,Non hispanic,White,56,Some college,1,"$30,000 - $39,999",To guess what the other participant would do in the game and try to make extra money by predicting that outcome,2,It was fine
-65,ENDO2,ev5rkqcvdlzw7hta,P1,3754378666,14,14,,,,14,,Obseerved,,2018-08-05 17:11:36.705513+00:00,66,Female,Non hispanic,White,64,College diploma,29,"$30,000 - $39,999","Knowing that you will make 5 cents times the number reported by p2, do you think that person will honestly answer or try to get more money by not being honest.",1,I think it was well written and fun so I would not change it.
-66,ENDO2,v3u9fq1mdlzw7hta,P1,3990936960,8,8,,,,30,,Obseerved,,2018-08-05 17:22:56.038640+00:00,67,Female,Non hispanic,White,56,Some college,32,"$20,000 - $29,999",To try and earn the most money for both P1 and P2,3,It seems ok as it is
-67,ENDO2,3lm1uxisdlzw7hta,P1,1338942523,10,10,,,,10,,Obseerved,,2018-08-05 18:06:19.125742+00:00,68,Male,Non hispanic,White,30,Some college,43,"$50,000 - $59,999","It is probably a study to know how people work in teams and if you can follow the instructions in a short time, it is quite simple and entertaining",2,maybe if they explained in a simpler way the instructions would be better since it was rather tedious to read so much about something that is very simple
-68,ENDO2,c0ivyzprdlzw7hta,P1,9537913093,7,7,,,,7,,Unobserved,,2018-08-05 18:14:40.214089+00:00,8,Male,Non hispanic,White,40,Professional post-secondary degree or doctoral degree,40,"$100,000 - $119,999",To see how honest people are.,2,"No recommendations. I think it was clear, thank you."
-69,ENDO2,i9c1em3vdlzw7hta,P1,2473790917,7,7,,,,4,,Obseerved,,2018-08-05 18:19:56.054941+00:00,55,Female,Non hispanic,White,51,Masters degree,14,"$20,000 - $29,999",to pick the exact number,3,if you had more choices.
-70,ENDO2,7zi3nn4ndlzw7hta,P1,7643739072,8,20,,,,20,,Unobserved,,2018-08-05 18:29:48.348585+00:00,144,Male,Non hispanic,White,21,Some college,35,"< $10,000","A study on honesty when monetary compensation is involved. There is no gatekeeper to dictate action, so anything goes.",1,This was one of the more enjoyable surveys! I have no issues with it.
-71,ENDO2,qes4c2f1dlzw7hta,P1,8447327372,14,14,,,,20,,Obseerved,,2018-08-05 19:56:11.947679+00:00,66,Female,Non hispanic,Hispanic/Latino/Latina,25,College diploma,4,"$20,000 - $29,999",I think the goal of this study is to determine wheter people will be honest when money is involved.,2,make it clear that P2 can choose another number other than the hidden and both players still get 5x whatever it is P2 reports.
-72,ENDO2,won3qacedlzw7hta,P1,5276434323,10,10,,,,30,,Obseerved,,2018-08-05 23:50:44.430009+00:00,68,Male,Hispanic,Native Hawaiian/Pacific Islander,29,Some college,32,"$30,000 - $39,999",To determine the actions of the other player,2,Explain the rules better
-73,ENDO2,g4kprnpmdlzw7hta,P1,6637802104,7,7,,,,7,,Obseerved,,2018-08-05 23:54:59.179045+00:00,80,Female,Non hispanic,White,41,Masters degree,11,"$70,000 - $79,999",accuracy of reporting number draws,3,none
-74,ENDO2,gilhporadlzw7hta,P1,8322751285,7,7,,,,7,,Obseerved,,2018-08-06 00:12:16.994965+00:00,33,Female,Non hispanic,White,27,Masters degree,10,"$30,000 - $39,999",You click a hidden number and then send it to someone and they get that and also have a chance to see it for themselves and you want the hidden number to match their final message,3,none
-75,ENDO2,68fupaq9dlzw7hta,P1,9100768380,8,30,,,,30,,Obseerved,,2018-08-06 00:40:49.448787+00:00,118,Male,Hispanic,White,36,College diploma,7,"$50,000 - $59,999",See if someone reports the correct number or tries for a higher bonus,1,Explain any reasons not to report 30
-76,ENDO2,x5ujrml5dlzw7hta,P1,1496996341,25,25,,,,27,,Obseerved,,2018-08-06 00:47:21.565052+00:00,56,Male,Non hispanic,White,36,Masters degree,46,"$80,000 - $99,999",determine truth in reporting given a specific incentive program,3,rules were a bit foggy around whether the number had to be reported truthfully
-77,ENDO2,leaaxk9odlzw7hta,P1,2361786446,9,9,,,,9,,Obseerved,,2018-08-06 01:02:58.974902+00:00,57,Female,Non hispanic,Hispanic/Latino/Latina,27,Professional post-secondary degree or doctoral degree,11,"$70,000 - $79,999",I think the goal of this study is to determine whether we type the actual number we drew or whether we type a higher number in the hopes of earning more money since the number is multiplied by 5.,4,none.
-78,ENDO2,5oofe0uddlzw7hta,P1,6007363224,6,6,,,,6,,Obseerved,,2018-08-06 01:07:15.701431+00:00,78,Female,Non hispanic,Black/African American,33,College diploma,47,"$30,000 - $39,999",Sending a hidden message to another person and that person hopefully clicks to see the hidden message and reports the final message.,2,More drawings would be helpful when it comes to examples.
-79,ENDO2,b4xtm4kmdlzw7hta,P1,9729466364,8,8,,,,10,,Obseerved,,2018-08-06 01:16:17.700953+00:00,144,Male,Non hispanic,White,29,Masters degree,28,"$40,000 - $49,999",To have an anonymous partner report the same number that I drew at the beginning.,3,N/A
-80,ENDO2,x828o0urdlzw7hta,P1,7639986174,7,7,,,,10,,Obseerved,,2018-08-06 01:28:04.847550+00:00,90,Female,Non hispanic,White,39,Masters degree,22,"$50,000 - $59,999",To see if people would choose the most common number if it's higher. Also to see if the second person would lie if the first one did.,2,It was a good survey
-81,ENDO2,pa1zglafdlzw7hta,P1,6363224330,10,10,,,,17,,Unobserved,,2018-08-06 01:50:12.044916+00:00,68,Male,Non hispanic,White,69,Some college,37,"$30,000 - $39,999",comprehension of game rules,3,show me the results of P2's choice
+id,treat,code_pay,role,group,hidden_number,report1,duplicate
+1,ENDO2,j5wv5klbdlzw7hta,P1,1585152288,8,8,1
+2,ENDO2,kayot9h5dlzw7hta,P1,2131721683,14,14,1
+3,ENDO2,w5131z6ndlzw7hta,P1,9327479553,8,8,1
+4,ENDO2,rxx64aladlzw7hta,P1,6083529126,10,30,1
+5,ENDO2,gu7vvlk7dlzw7hta,P1,9314135758,10,10,1
+6,ENDO2,umi31extdlzw7hta,P1,3180348364,6,6,1
+7,ENDO2,f050ts3ddlzw7hta,P1,9484596819,11,11,1
+8,ENDO2,1vtj45hsdlzw7hta,P1,8870595475,6,6,1
+9,ENDO2,b00y1zxgdlzw7hta,P1,6385235767,30,30,1
+10,ENDO2,cx8dt6jcdlzw7hta,P1,4093635611,10,11,1
+11,ENDO2,xsu438omdlzw7hta,P1,8638472572,1,1,1
+12,ENDO2,kqjd70radlzw7hta,P1,3679130841,7,7,1
+13,ENDO2,951xvggudlzw7hta,P1,1590239915,28,28,1
+14,ENDO2,bdh17enbdlzw7hta,P1,9667016915,14,14,1
+15,ENDO2,8goez8dqdlzw7hta,P1,4244662753,8,8,1
+16,ENDO2,x7ay7a35dlzw7hta,P1,7687625065,7,7,1
+17,ENDO2,82hjc4a1dlzw7hta,P1,1079863843,12,30,1
+18,ENDO2,ljpt88d0dlzw7hta,P1,3964457977,8,8,1
+19,ENDO2,k8tgwtpfdlzw7hta,P1,8556169555,10,10,1
+20,ENDO2,c183bnj9dlzw7hta,P1,6102244707,24,24,1
+21,ENDO2,cvh7ka6udlzw7hta,P1,7967273336,7,10,1
+22,ENDO2,2lfbd04ldlzw7hta,P1,4459986344,25,25,1
+23,ENDO2,j8cgptbqdlzw7hta,P1,5771375083,6,30,1
+24,ENDO2,77g837hfdlzw7hta,P1,2001233140,11,11,1
+25,ENDO2,4ns46pnsdlzw7hta,P1,6434179011,9,9,1
+26,ENDO2,re6m8bhwdlzw7hta,P1,4763335338,25,25,1
+27,ENDO2,y3fwd1yddlzw7hta,P1,8065679266,10,10,1
+28,ENDO2,dumx4q9kdlzw7hta,P1,3687624163,10,10,1
+29,ENDO2,uik8whf4dlzw7hta,P1,4254073293,1,20,1
+30,ENDO2,w3mugf2zdlzw7hta,P1,9832808335,11,11,1
+31,ENDO2,9tedljupdlzw7hta,P1,5808359760,22,22,1
+32,ENDO2,ssu2jwogdlzw7hta,P1,8678680493,12,12,1
+33,ENDO2,t81r4vr2dlzw7hta,P1,2806049031,7,30,1
+34,ENDO2,dwniwu21dlzw7hta,P1,8924458248,13,13,1
+35,ENDO2,68dau4qsdlzw7hta,P1,6667413428,9,9,1
+36,ENDO2,mwmcb2vvdlzw7hta,P1,9513762590,11,11,1
+37,ENDO2,a56mjdj0dlzw7hta,P1,6287060845,11,11,1
+38,ENDO2,rnc3p1w4dlzw7hta,P1,6513465617,25,25,1
+39,ENDO2,b0w4d5xxdlzw7hta,P1,7602448145,7,7,1
+40,ENDO2,06va6susdlzw7hta,P1,3951702808,11,11,1
+41,ENDO2,bsmwqeiddlzw7hta,P1,9049599350,10,30,1
+42,ENDO2,qwv2a0iudlzw7hta,P1,5027484685,11,11,1
+43,ENDO2,2dsr8uqndlzw7hta,P1,3028297253,11,11,1
+44,ENDO2,epdgea7jdlzw7hta,P1,8442086792,11,11,1
+45,ENDO2,xbmib5undlzw7hta,P1,7084765326,11,11,1
+46,ENDO2,etfkkd2rdlzw7hta,P1,5683739503,14,14,1
+47,ENDO2,i5k6rlqudlzw7hta,P1,1446264353,25,25,1
+48,ENDO2,91k7n4hodlzw7hta,P1,2777140677,9,9,1
+49,ENDO2,pk1zt1erdlzw7hta,P1,6864761201,10,10,1
+50,ENDO2,5qgzdm47dlzw7hta,P1,7447888413,11,11,1
+51,ENDO2,qkjyh6widlzw7hta,P1,3305406055,9,9,1
+52,ENDO2,50xu1qssdlzw7hta,P1,1663054570,9,9,1
+53,ENDO2,elqu835udlzw7hta,P1,9985643252,7,7,1
+54,ENDO2,wcgr5p3wdlzw7hta,P1,1354491031,16,30,1
+55,ENDO2,n5rnamrrdlzw7hta,P1,1648882402,12,24,1
+56,ENDO2,1ffhsdbqdlzw7hta,P1,9540600050,26,26,1
+57,ENDO2,yespqw3kdlzw7hta,P1,3649757040,9,9,1
+58,ENDO2,h4096hk0dlzw7hta,P1,3343961418,7,7,1
+59,ENDO2,0g7b0hnldlzw7hta,P1,5279188668,7,7,1
+60,ENDO2,epewt6widlzw7hta,P1,4387666970,14,30,1
+61,ENDO2,1k5c6hdedlzw7hta,P1,4202135790,9,9,1
+62,ENDO2,quw6ttgldlzw7hta,P1,7804494393,10,30,1
+63,ENDO2,1zr7oujedlzw7hta,P1,9479701720,1,1,1
+64,ENDO2,xy9gwpdjdlzw7hta,P1,5092292425,11,11,1
+65,ENDO2,ev5rkqcvdlzw7hta,P1,3754378666,14,14,1
+66,ENDO2,v3u9fq1mdlzw7hta,P1,3990936960,8,8,1
+67,ENDO2,3lm1uxisdlzw7hta,P1,1338942523,10,10,1
+68,ENDO2,c0ivyzprdlzw7hta,P1,9537913093,7,7,1
+69,ENDO2,i9c1em3vdlzw7hta,P1,2473790917,7,7,1
+70,ENDO2,7zi3nn4ndlzw7hta,P1,7643739072,8,20,1
+71,ENDO2,qes4c2f1dlzw7hta,P1,8447327372,14,14,1
+72,ENDO2,won3qacedlzw7hta,P1,5276434323,10,10,1
+73,ENDO2,g4kprnpmdlzw7hta,P1,6637802104,7,7,1
+74,ENDO2,gilhporadlzw7hta,P1,8322751285,7,7,1
+75,ENDO2,68fupaq9dlzw7hta,P1,9100768380,8,30,1
+76,ENDO2,x5ujrml5dlzw7hta,P1,1496996341,25,25,1
+77,ENDO2,leaaxk9odlzw7hta,P1,2361786446,9,9,1
+78,ENDO2,5oofe0uddlzw7hta,P1,6007363224,6,6,1
+79,ENDO2,b4xtm4kmdlzw7hta,P1,9729466364,8,8,1
+80,ENDO2,x828o0urdlzw7hta,P1,7639986174,7,7,1
+81,ENDO2,pa1zglafdlzw7hta,P1,6363224330,10,10,1

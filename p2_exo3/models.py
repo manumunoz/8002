@@ -34,7 +34,7 @@ class Constants(BaseConstants):
     show_up_fee = 1
     total_pay = 2.70
 
-    with open('p2_exo3/imp_p1_exo3.csv', 'r') as f:
+    with open('p2_exo3/imp_p1_exo3a.csv', 'r') as f:
         reader = csv.reader(f)
         data_player1 = list(reader)
 
@@ -73,12 +73,14 @@ class Player(BasePlayer):
     belief_endo= models.BooleanField() # Reported belief on P3's verification
     random_group = models.BigIntegerField()
     player_role = models.IntegerField()
+    duplicate = models.IntegerField()
 
     def assigning_values(self):
         self.random_group = int(Constants.data_player1[self.id_in_group][4])
         self.rnum = int(Constants.data_player1[self.id_in_group][5])
         self.report_1 = int(Constants.data_player1[self.id_in_group][6])
         self.player_role = 2
+        self.duplicate = int(Constants.data_player1[self.id_in_group][7])
 
     gender = models.PositiveIntegerField(
         choices=[

@@ -1,82 +1,82 @@
-id,treat,code_pay,role,group,hidden_number,report1,report2,report3,belief1,belief2,belief3,belief_observed,observed,start_time,chosen_card,gender,ethnicity,race,age,education,state,income,q1,q2,q3
-1,VCTM2,31sdrwsi4ygiji6h,P1,3862409078,11,11,,,,16,,Obseerved,,2018-08-03 18:53:33.321110+00:00,7,Male,Non hispanic,White,28,High school or equivalent,50,"$20,000 - $29,999",To check how well people can follow directions.,3,Seemed fine to me.
-2,VCTM2,o1tp6k804ygiji6h,P1,4704196699,7,7,,,,7,,Obseerved,,2018-08-03 18:54:34.641139+00:00,86,Female,Non hispanic,White,28,College diploma,47,"$20,000 - $29,999",I honestly have no idea what the goal is. I understand the process but I don't quite understand the goal of it,2,"It was pleasant and ran well. Overall it was a good experience, don't worry about improvement"
-3,VCTM2,adkknln84ygiji6h,P1,2995592613,25,25,,,,25,,Obseerved,,2018-08-03 19:23:51.118699+00:00,56,Male,Non hispanic,Black/African American,28,College diploma,30,"$30,000 - $39,999",The goal of the study is to see how people act in a decision making task where someone might have to suffer as a result of another's greed.,2,Make the questions' font size larger.
-4,VCTM2,f0cdenk24ygiji6h,P1,9689053200,12,12,,,,12,,Unobserved,,2018-08-03 19:29:36.814688+00:00,54,Female,Non hispanic,White,23,Some college,1,"$10,000 - $19,999",Choosing a believable number,1,Make the quiz a little easier to get into it
-5,VCTM2,w3fw5trv4ygiji6h,P1,4723678247,11,30,,,,30,,Obseerved,,2018-08-03 19:44:42.343078+00:00,34,Male,Non hispanic,Black/African American,33,College diploma,5,"$20,000 - $29,999",The goal is to see if two people will be fair to a third person who has no control in the scenario.,3,The instructions could have been shorter and more concise.
-6,VCTM2,bmxeltvr4ygiji6h,P1,7040798630,11,11,,,,11,,Unobserved,,2018-08-03 20:08:30.601565+00:00,69,Male,Non hispanic,White,28,College diploma,5,"$60,000 - $69,999",please be positive to display the correct number,1,none
-7,VCTM2,m1mj6pd04ygiji6h,P1,2636262415,26,30,,,,30,,Obseerved,,2018-08-03 20:11:26.241262+00:00,42,Male,Non hispanic,Black/African American,27,College diploma,36,"$20,000 - $29,999",opinions,1,nothing
-8,VCTM2,td97bvxl4ygiji6h,P1,2959807603,10,10,,,,10,,Obseerved,,2018-08-03 21:32:29.662699+00:00,43,Female,Non hispanic,White,34,College diploma,6,"< $10,000",To see how honest people are in playing this game.,3,The instructions were pretty confusing.
-9,VCTM2,09lj4lrm4ygiji6h,P1,4989705749,8,8,,,,8,,Obseerved,,2018-08-03 21:35:23.981256+00:00,45,Male,Non hispanic,Black/African American,22,High school or equivalent,42,"< $10,000",Trust in a group,3,None
-10,VCTM2,zojjqbcd4ygiji6h,P1,9173462475,11,28,,,,28,,Obseerved,,2018-08-03 22:28:49.676183+00:00,69,Male,Non hispanic,Black/African American,50,Professional post-secondary degree or doctoral degree,5,"$20,000 - $29,999",seeing if we cheat to get more money?,5,most convoluted instruction ever. could be simplified significantly.
-11,VCTM2,d7jugppj4ygiji6h,P1,6586489182,11,11,,,,11,,Unobserved,,2018-08-03 22:35:02.387736+00:00,69,Female,Non hispanic,White,47,Some college,43,"$60,000 - $69,999",How trusting you feel your team mates are.,3,It was a lot of instructions and confusing at times.
-12,VCTM2,jjrhzg2z4ygiji6h,P1,9731029279,10,10,,,,10,,Obseerved,,2018-08-03 23:02:56.547774+00:00,43,Male,Non hispanic,White,24,College diploma,5,"$70,000 - $79,999",Reporting the hidden number,5,Make the game less convoluted
-13,VCTM2,oy43qmhh4ygiji6h,P1,8969867207,12,12,,,,12,,Obseerved,,2018-08-03 23:14:02.739269+00:00,103,Male,Non hispanic,White,42,Professional post-secondary degree or doctoral degree,38,"< $10,000",Determining how honest you perceive strangers.,3,The instructions on what P3 got were a little confusing until I saw the equation.
-14,VCTM2,2hei1ujb4ygiji6h,P1,2546683242,13,13,,,,27,,Obseerved,,2018-08-03 23:23:24.918304+00:00,70,Male,Non hispanic,White,33,College diploma,35,"< $10,000",The goal of the study is to see if people will cheat and report a higher number than they received.,3,"The instructions were a little long and complex, maybe simplify them a bit."
-15,VCTM2,82rwnj694ygiji6h,P1,1661641404,8,20,,,,20,,Obseerved,,2018-08-03 23:28:36.426239+00:00,93,Female,Non hispanic,White,47,Masters degree,43,"$20,000 - $29,999",make the most money,1,nothing it was easy
-16,VCTM2,dochqpq14ygiji6h,P1,1163424283,21,21,,,,21,,Obseerved,,2018-08-03 23:31:04.143238+00:00,40,Male,Non hispanic,White,37,Some college,43,"$70,000 - $79,999",To examine how people participate in a money game.,1,No improvements.
-17,VCTM2,523weprf4ygiji6h,P1,5492786804,11,11,,,,11,,Obseerved,,2018-08-04 00:00:00.091017+00:00,116,Male,Non hispanic,White,32,College diploma,33,"$30,000 - $39,999",a test to see how fair people are,3,it was good as it was
-18,VCTM2,9yn8drsp4ygiji6h,P1,6848695283,6,6,,,,10,,Obseerved,,2018-08-04 00:27:44.755683+00:00,78,Female,Non hispanic,American Indian/Alaskan Native,48,College diploma,21,"$30,000 - $39,999","integrity test, both P1 and P2 have a chance to lie to increase their bonus and the sacrifice would be P3.  You have to not care about P3's earnings to make a good bonus in the game.  So your integrity is tested, what are you willing to sacrifice.",2,"I think it was fair and fine, the instructions were available to refer back to while completing the comprehension questions, it was good.  Interesting twist."
-19,VCTM2,u14mp67a4ygiji6h,P1,7878492185,7,7,,,,14,,Obseerved,,2018-08-04 00:32:21.414873+00:00,80,Male,Non hispanic,White,49,Masters degree,50,"$100,000 - $119,999",predicting honesty of strangers.,2,nothing I can think of.
-20,VCTM2,tdgz4j4i4ygiji6h,P1,9539062804,8,8,,,,8,,Obseerved,,2018-08-04 00:38:00.465128+00:00,63,Male,Non hispanic,White,51,College diploma,25,"$60,000 - $69,999",If we felt in a situation like this could we trust people to ethically do what was fair so all participants were paid equally.,1,I found it all to be fine.
-21,VCTM2,lmjoav7k4ygiji6h,P1,3372576530,11,11,,,,11,,Obseerved,,2018-08-04 01:22:21.092431+00:00,58,Male,Non hispanic,White,23,College diploma,32,"< $10,000","I honestly have no clue,  this was so confusing. To see if people deliberately misrepresented information for financial gain?",5,Those instructions were bonkers confusing
-22,VCTM2,8ydxsq2y4ygiji6h,P1,3023768773,8,16,,,,16,,Obseerved,,2018-08-04 01:38:20.870693+00:00,83,Male,Non hispanic,Black/African American,24,College diploma,21,"$60,000 - $69,999","How P2 would respond to certain scenarios (message from P1 appearing, clicking on a button, etc)",2,None
-23,VCTM2,0gael4bm4ygiji6h,P1,1549102309,9,30,,,,30,,Unobserved,,2018-08-04 01:51:00.067151+00:00,31,Male,Non hispanic,Hispanic/Latino/Latina,26,College diploma,24,"$50,000 - $59,999",to win as much money as possible for everybody,1,No way
-24,VCTM2,6xscrq6x4ygiji6h,P1,9493799419,9,9,,,,15,,Obseerved,,2018-08-04 01:51:52.228381+00:00,131,Male,Non hispanic,Hispanic/Latino/Latina,21,High school or equivalent,18,"$80,000 - $99,999",no,2,no
-25,VCTM2,qv1fga614ygiji6h,P1,2005946173,29,29,,,,29,,Unobserved,,2018-08-04 01:56:24.957864+00:00,107,Female,Non hispanic,White,30,College diploma,14,"$30,000 - $39,999",predict how people will respond; truthfully or inflated,3,"complicated instructions, perhaps a practice?"
-26,VCTM2,1819i4j84ygiji6h,P1,8584578950,8,8,,,,8,,Obseerved,,2018-08-04 01:59:46.821192+00:00,67,Female,Non hispanic,White,33,Some college,6,"$20,000 - $29,999",Will people provide accurate information honestly or fudge information for a small profit.,1,It's fine
-27,VCTM2,pk5ewhmf4ygiji6h,P1,2121995682,7,7,,,,7,,Obseerved,,2018-08-04 02:17:14.865883+00:00,55,Male,Hispanic,White,25,Some college,43,"$30,000 - $39,999",No,2,Give more clear instructions
-28,VCTM2,93uw7r2z4ygiji6h,P1,4494817981,10,10,,,,20,,Obseerved,,2018-08-04 02:29:53.237033+00:00,43,Male,Non hispanic,White,30,College diploma,32,"$50,000 - $59,999",To see how willing two players were to screw a third for their gain.,2,I'm not sure that you could have.
-29,VCTM2,d850z3hr4ygiji6h,P1,3903831880,7,7,,,,12,,Obseerved,,2018-08-04 13:21:47.943815+00:00,71,Male,Hispanic,White,34,College diploma,5,"$50,000 - $59,999",I would guess that the goal was to determine how truthful people are when money is invovled,3,no improvements needed
-30,VCTM2,9fy47dql4ygiji6h,P1,6415603221,7,7,,,,12,,Unobserved,,2018-08-04 13:51:08.398630+00:00,17,Male,Non hispanic,White,35,Some college,32,"$80,000 - $99,999",The goal is to see if the players send the correct hidden number.,2,"It was good, glad we had the opportunity to review instructions."
-31,VCTM2,ky1kymib4ygiji6h,P1,2923876750,7,28,,,,28,,Unobserved,,2018-08-04 13:53:50.281032+00:00,80,Female,Non hispanic,White,42,College diploma,24,"$30,000 - $39,999",Trusting others,1,Nothing
-32,VCTM2,bltdx9o54ygiji6h,P1,4213470115,8,8,,,,20,,Obseerved,,2018-08-04 13:58:53.729649+00:00,27,Male,Non hispanic,White,45,College diploma,36,"$60,000 - $69,999",I am really unsure.  Maybe to see if people are honest in their reporting?,1,Instructions are a little dense at first.
-33,VCTM2,n59bwkd64ygiji6h,P1,1109375355,1,30,,,,30,,Unobserved,,2018-08-04 14:33:51.700646+00:00,1,Male,Non hispanic,White,24,College diploma,10,"$40,000 - $49,999",Experiment designed to know if people are self-serving,2,"I had fun, thank you."
-34,VCTM2,c69t66ei4ygiji6h,P1,5957570020,25,25,,,,25,,Obseerved,,2018-08-04 14:42:29.333734+00:00,56,Male,Non hispanic,White,32,Some college,35,"$30,000 - $39,999",To determine if P2 would be honest in their assessment of the final number in order to ensure a fair payout for p3,2,Could add a practice round to make the rules a bit less lengthy.  It was simpler than the rules made it out to be.
-35,VCTM2,x1j96z6f4ygiji6h,P1,9670298472,9,20,,,,20,,Obseerved,,2018-08-04 15:26:49.531420+00:00,104,Male,Non hispanic,White,31,Some college,20,"$60,000 - $69,999",Testing deception,7,Don't make the instructions so confusing.
-36,VCTM2,197p5vhe4ygiji6h,P1,2555844261,10,24,,,,24,,Obseerved,,2018-08-04 16:31:52.693148+00:00,126,Male,Non hispanic,White,35,Masters degree,10,"$70,000 - $79,999",If strangers will collaborate and lie to earn more money.,2,Nothing
-37,VCTM2,5d0oti354ygiji6h,P1,5778370290,6,6,,,,27,,Obseerved,,2018-08-04 17:09:59.232972+00:00,138,Female,Non hispanic,White,60,College diploma,43,"$20,000 - $29,999","How honest are people, and how honest do we think they are?",4,"It's billed as a 5-to-10-minute study. I think I spent at least eight minutes just on understanding the rather convoluted instructions. I don't know if reading and understanding the instructions is supposed to be part of the study time (because I'm also spending time answering this question), but you'd be more honest if you called it a 10-to-15-minute study."
-38,VCTM2,iv9n8ah64ygiji6h,P1,8851947150,14,14,,,,14,,Obseerved,,2018-08-04 17:10:02.219933+00:00,66,Male,Non hispanic,White,60,Some college,21,"$120,000 - $149,999",I honestly have no idea!,3,It seems to work fine.
-39,VCTM2,2re8a6je4ygiji6h,P1,6015727752,7,7,,,,7,,Unobserved,,2018-08-04 17:15:57.883379+00:00,80,Female,Non hispanic,White,22,High school or equivalent,33,"$10,000 - $19,999","To discover the hidden number and pass it down to player two, then player two will pass it down to player 3",1,None
-40,VCTM2,uyprf7yi4ygiji6h,P1,1394737213,6,6,,,,10,,Obseerved,,2018-08-04 20:49:24.164301+00:00,78,Female,Non hispanic,White,36,College diploma,40,"$20,000 - $29,999",To try and make the most money,1,I think this was fine the way it was.
-41,VCTM2,umwfgpjv4ygiji6h,P1,4821293167,30,30,,,,30,,Unobserved,,2018-08-04 20:57:48.839360+00:00,52,Male,Hispanic,White,42,Some college,28,"$40,000 - $49,999",To see if P2 was curious at checked the number and if the reported the correct number back,1,The instructions were good but I did have read them a few times so I could fully comprehend them.
-42,VCTM2,6advomc74ygiji6h,P1,4207726966,7,7,,,,7,,Obseerved,,2018-08-04 21:13:07.864065+00:00,33,Male,Non hispanic,White,53,Masters degree,21,"$60,000 - $69,999",I think the goal is whether we would manipulate the numbers as a way to increase earnings,3,nothing jumps out at me
-43,VCTM2,tnh6odkh4ygiji6h,P1,1588621975,8,8,,,,8,,Obseerved,,2018-08-04 21:27:00.688668+00:00,118,Female,Non hispanic,White,36,College diploma,11,"$30,000 - $39,999",The goal of this study is to see how honest someone will be or will they report a different number to get themselves a higher payment.,1,N/A
-44,VCTM2,zn1fqypj4ygiji6h,P1,8002770216,14,14,,,,12,,Obseerved,,2018-08-04 22:15:13.721433+00:00,66,Female,Non hispanic,White,42,Some college,42,"$20,000 - $29,999",describe the hidden number,4,explain the directions better.
-45,VCTM2,u2i262c84ygiji6h,P1,3206247853,10,10,,,,10,,Obseerved,,2018-08-04 22:21:40.388441+00:00,65,Male,Non hispanic,Hispanic/Latino/Latina,23,College diploma,25,"$30,000 - $39,999",See if people will betray player 3 for slightly more money,1,See if i answered correctly or not
-46,VCTM2,0t6s0k5d4ygiji6h,P1,1875620736,12,12,,,,12,,Obseerved,,2018-08-04 22:26:02.979569+00:00,54,Female,Non hispanic,White,57,Masters degree,50,"$10,000 - $19,999",To try to get people to lie about a hidden number in order to get a bonus,5,"I don't know, the game seems designed to make people feel bad."
-47,VCTM2,cu6x42444ygiji6h,P1,4909476567,9,9,,,,15,,Obseerved,,2018-08-04 23:17:27.371309+00:00,79,Male,Hispanic,Hispanic/Latino/Latina,19,Some college,30,"< $10,000",A study on how others react to given information.,1,I can't think of anything as the survey experience was already great.
-48,VCTM2,4pu4p0pe4ygiji6h,P1,9229543956,9,9,,,,20,,Obseerved,,2018-08-05 12:49:09.408192+00:00,111,Female,Non hispanic,White,35,Some college,1,"$30,000 - $39,999",The goal of this study is to see how people would report a number to another person when a bonus was on the line,1,"It was already good, no improvement needed"
-49,VCTM2,10wv7fnd4ygiji6h,P1,9502517222,11,11,,,,11,,Obseerved,,2018-08-05 13:24:58.640334+00:00,69,Female,Non hispanic,White,50,Some college,4,"< $10,000","Report a hidden number trying to make as much money as possible.  Of course, if you report more than you actually see, you will be hurting a player, so it is more ethical to report what you actually see.",3,It was fine.
-50,VCTM2,ousix7yy4ygiji6h,P1,7492235454,8,30,,,,30,,Obseerved,,2018-08-05 13:41:18.460819+00:00,144,Male,Non hispanic,White,38,College diploma,7,"$20,000 - $29,999",Report a number that maximizes your gain.,3,Nothing comes to mind.
-51,VCTM2,k7rinup74ygiji6h,P1,1102954606,9,16,,,,16,,Obseerved,,2018-08-05 13:51:55.242968+00:00,53,Male,Non hispanic,White,38,Masters degree,35,"$120,000 - $149,999",To try and earn as much money was possible.,4,Try to simplify the instructions a bit more. No comprehensive test
-52,VCTM2,zgm6uprm4ygiji6h,P1,5803413177,25,25,,,,30,,Obseerved,,2018-08-05 14:03:33.373248+00:00,56,Male,Non hispanic,White,29,Masters degree,43,"$70,000 - $79,999",to understand nature of people,1,its good
-53,VCTM2,nkuikcr64ygiji6h,P1,2557874328,11,11,,,,11,,Obseerved,,2018-08-05 14:49:02.478307+00:00,58,Female,Non hispanic,White,40,College diploma,32,"$40,000 - $49,999",I think the goal was to express the correct number to player 2 so that they would express the right number as the final message,4,nothing
-54,VCTM2,r3huqtke4ygiji6h,P1,9204913947,7,7,,,,7,,Obseerved,,2018-08-05 15:12:33.080207+00:00,99,Male,Non hispanic,Black/African American,19,Some college,6,"$80,000 - $99,999",How a reward can influence someone's actions.,3,N/A
-55,VCTM2,5dv8qfve4ygiji6h,P1,5141290704,9,9,,,,12,,Obseerved,,2018-08-05 15:17:34.339922+00:00,22,Female,Hispanic,Native Hawaiian/Pacific Islander,34,Masters degree,35,"$30,000 - $39,999",Determining honesty and integrity between players,1,nothing to add
-56,VCTM2,qltn35z94ygiji6h,P1,8829656389,26,26,,,,26,,Obseerved,,2018-08-05 15:21:44.887426+00:00,42,Male,Non hispanic,Asian,33,Some college,35,"$10,000 - $19,999",How manipulative someone can be to others who don't play an active role in the scenario.,3,The instructions were somewhat confusing at first.
-57,VCTM2,rm04683i4ygiji6h,P1,7004840792,9,30,,,,30,,Obseerved,,2018-08-05 15:40:10.923009+00:00,120,Male,Non hispanic,Hispanic/Latino/Latina,33,Masters degree,3,"$60,000 - $69,999",Is to see how and if greed affects people's decision,1,None
-58,VCTM2,628eobx24ygiji6h,P1,3586570780,13,13,,,,20,,Obseerved,,2018-08-05 16:20:12.555485+00:00,70,Male,Non hispanic,White,28,Some college,7,"< $10,000",Figure out how people make choices in certain situations,4,Less wall of text in the instructions.
-59,VCTM2,q1gc5kt84ygiji6h,P1,6294273637,7,20,,,,20,,Obseerved,,2018-08-05 16:26:43.726045+00:00,33,Other,Non hispanic,White,31,Masters degree,21,"$150,000 - $199,999","It's a study about economics, limited information flow, and fairness.  Do you maximize your own profit, try to make everyone's even, or maximize the group total?",3,"I feel like the role of P3 was somewhat meaningless.  I understand that you need another person to earn/not earn money, but maybe there's something you could have them contribute to have it feel like there's a real person there?"
-60,VCTM2,zjeasea64ygiji6h,P1,4244264708,1,1,,,,1,,Obseerved,,2018-08-05 16:42:58.402656+00:00,1,Female,Non hispanic,Black/African American,42,College diploma,32,I do not wish to report my income.,It's a funny game.,4,N/A.
-61,VCTM2,iq937iux4ygiji6h,P1,5504042639,10,10,,,,10,,Obseerved,,2018-08-05 17:09:29.488316+00:00,74,Female,Non hispanic,White,38,Professional post-secondary degree or doctoral degree,39,"$70,000 - $79,999","It's a game where two players have a choice and a third one is a passive observer. If the two players choose to report the true value, all players receive similar pay. But if they choose a different value they can earn more money at the expense of the third players pay. If player 1 decides to increase the value reported, player 2 can decide to find out if player 1 was truthful or not and then decide to reverse their choice, go along with it or change it to something else. Whatever his choice, both player 1 and 2 receive the same amount and player 3 either receives the same or less than them.",2,It was fine as is.
-62,VCTM2,t4g8zj034ygiji6h,P1,7925033563,8,8,,,,8,,Obseerved,,2018-08-05 17:12:26.628183+00:00,67,Female,Non hispanic,Native Hawaiian/Pacific Islander,24,College diploma,5,"$10,000 - $19,999",The goal of this study was to determine how a group of people would report a number based on the amount of earnings they would receive.,2,N/A
-63,VCTM2,snj7lcyy4ygiji6h,P1,2155117948,14,14,,,,14,,Obseerved,,2018-08-05 17:21:07.749059+00:00,66,Female,Non hispanic,White,36,High school or equivalent,7,"< $10,000",To try and make the most amount of money fairly,1,having a longer survey with more turns
-64,VCTM2,8b3oirep4ygiji6h,P1,9886438161,6,6,,,,30,,Unobserved,,2018-08-05 17:21:31.836772+00:00,75,Male,Non hispanic,White,37,Some college,10,"$20,000 - $29,999",fun game to play,1,the survey was great
-65,VCTM2,vruvvcig4ygiji6h,P1,4368069289,7,7,,,,12,,Obseerved,,2018-08-05 17:22:03.195535+00:00,80,Male,Non hispanic,White,29,Some college,35,"$40,000 - $49,999",To see if someone would inherently trust a number being messaged to them or would they change it to increase their earnings.,2,Pretty straight-forward and to the point.
-66,VCTM2,q7zq00be4ygiji6h,P1,4204977413,10,10,,,,12,,Unobserved,,2018-08-05 17:22:19.850312+00:00,21,Male,Non hispanic,White,36,Masters degree,47,"$80,000 - $99,999",how ethically P2 reports  the hidden number to P3. Whether he  sees the hidden number or randomly passes any number,1,simpler instructions
-67,VCTM2,5wxyxv674ygiji6h,P1,4878771562,14,14,,,,14,,Obseerved,,2018-08-05 17:22:20.219006+00:00,66,Female,Non hispanic,White,61,Some college,10,"< $10,000","The goal of this study is to see if the second player decides to accurately communicate money that that all 3 people will share equally, or if they become greedy and want more money for themselves and one other person.",2,Nothing.
-68,VCTM2,7hti7an84ygiji6h,P1,7618471717,8,30,,,,30,,Obseerved,,2018-08-05 17:37:04.290727+00:00,93,Male,Non hispanic,White,46,College diploma,15,"< $10,000",To make the most money possible.,2,More pictures but it was a pleasant HIT. Thank you.
-69,VCTM2,w22ptaqt4ygiji6h,P1,7596150213,10,10,,,,10,,Unobserved,,2018-08-05 17:41:42.741174+00:00,50,Female,Non hispanic,Black/African American,18,Some college,21,"< $10,000",Behavioral online study on whether one will sacrifice one's own earnings for higher expected overall value or to benefit a stranger.,3,Add gridlines to the graph to make it more readable
-70,VCTM2,9ydptpiq4ygiji6h,P1,9949078882,6,6,,,,6,,Obseerved,,2018-08-05 17:51:03.205773+00:00,78,Female,Non hispanic,Black/African American,21,College diploma,7,"$10,000 - $19,999",The goal is to report the number that you pick from a grid to a second person who is then going to submit a final answer.,1,none
-71,VCTM2,10mnubl84ygiji6h,P1,6921526949,27,27,,,,25,,Obseerved,,2018-08-05 18:04:54.603979+00:00,3,Female,Non hispanic,White,26,Masters degree,11,I do not wish to report my income.,"I think the goal of the study is to predict how honest the second player will be in reporting the number, when he/she has incentive to report inaccurately",2,n/a
-72,VCTM2,dk6xrzpm4ygiji6h,P1,7271878225,11,11,,,,18,,Obseerved,,2018-08-05 18:13:40.866155+00:00,64,Male,Non hispanic,White,23,College diploma,11,"$80,000 - $99,999",How honest people are in order to maximize the earnings for all players,3,Make the instructions a little clearer
-73,VCTM2,oz63ylz04ygiji6h,P1,9583715035,11,18,,,,11,,Obseerved,,2018-08-05 18:19:31.807585+00:00,34,Male,Non hispanic,White,27,Some college,3,"$30,000 - $39,999",psychology,1,money
-74,VCTM2,48ywgros4ygiji6h,P1,6093880680,9,9,,,,9,,Obseerved,,2018-08-05 18:20:30.302510+00:00,79,Female,Non hispanic,White,61,High school or equivalent,11,"$80,000 - $99,999",It is a test on honesty.  Did P1 honestly pass the number to P2 or did they inflate the number to possibly earn more money?  Did P2 believe the number protrayed by P1 was correct and even if they checked the answer did they honestly pass the correct number to P3?,2,"The instructions were somewhat confusing, but interesting."
-75,VCTM2,3x8195ko4ygiji6h,P1,3571142735,9,9,,,,9,,Obseerved,,2018-08-05 18:51:32.998076+00:00,31,Female,Non hispanic,White,22,High school or equivalent,15,"$60,000 - $69,999",to make as much money as you could by P2,2,I think it was well explained but I did have to read it over about three times. I dont knoe if there is a easier way of making it work or not
-76,VCTM2,rigiwcn04ygiji6h,P1,9476534030,11,11,,,,11,,Obseerved,,2018-08-05 19:09:03.115585+00:00,92,Male,Hispanic,Native Hawaiian/Pacific Islander,21,High school or equivalent,28,"$30,000 - $39,999",It's a money make test to see how honest people are.,2,Maybe make the instruction a bit more simple and not as confusing.
-77,VCTM2,z2ozolbr4ygiji6h,P1,9433135329,2,2,,,,5,,Obseerved,,2018-08-05 19:11:58.251406+00:00,76,Male,Non hispanic,White,24,High school or equivalent,33,"$10,000 - $19,999",The goal is to report the hidden number to the other player to gain the most points.,3,"The instructions on earnings were a tad confusing. However, I eventually figured it out and am satisfied by this survey."
-78,VCTM2,kvk5i4ma4ygiji6h,P1,7452977423,12,12,,,,30,,Obseerved,,2018-08-05 19:15:29.897861+00:00,54,Female,Non hispanic,White,40,Masters degree,23,"$50,000 - $59,999",The goal of this study is to determine whether or not participants will screw over another participant (that they don't know) in order to increase their own bonus.,2,N/A
-79,VCTM2,2rg6skpj4ygiji6h,P1,4790423992,8,8,,,,20,,Obseerved,,2018-08-05 22:58:05.028733+00:00,67,Male,Non hispanic,White,24,College diploma,45,"$30,000 - $39,999",See if people will disregard instructions for more personal profit perhaps.,3,"All was good,  I appreciate the ability to look at the instructions while/after answering comprehension questions"
-80,VCTM2,4uil1pkt4ygiji6h,P1,9452887339,9,9,,,,9,,Obseerved,,2018-08-06 01:04:37.096951+00:00,53,Female,Non hispanic,White,26,High school or equivalent,5,"$50,000 - $59,999",seeing if the correct number will be passed on.,3,actually playing a mock game would be entertaining.
-81,VCTM2,xlqlnh1i4ygiji6h,P1,8863244995,11,11,,,,11,,Obseerved,,2018-08-06 01:16:24.149667+00:00,58,Female,Non hispanic,Black/African American,25,College diploma,5,"$80,000 - $99,999",Some type of study on how people try to rig the game to earn more,2,"Good survey, well explained"
+id,treat,code_pay,role,group,hidden_number,report1,duplicate
+1,VCTM2,31sdrwsi4ygiji6h,P1,3862409078,11,11,1
+2,VCTM2,o1tp6k804ygiji6h,P1,4704196699,7,7,1
+3,VCTM2,adkknln84ygiji6h,P1,2995592613,25,25,1
+4,VCTM2,f0cdenk24ygiji6h,P1,9689053200,12,12,1
+5,VCTM2,w3fw5trv4ygiji6h,P1,4723678247,11,30,1
+6,VCTM2,bmxeltvr4ygiji6h,P1,7040798630,11,11,1
+7,VCTM2,m1mj6pd04ygiji6h,P1,2636262415,26,30,1
+8,VCTM2,td97bvxl4ygiji6h,P1,2959807603,10,10,1
+9,VCTM2,09lj4lrm4ygiji6h,P1,4989705749,8,8,1
+10,VCTM2,zojjqbcd4ygiji6h,P1,9173462475,11,28,1
+11,VCTM2,d7jugppj4ygiji6h,P1,6586489182,11,11,1
+12,VCTM2,jjrhzg2z4ygiji6h,P1,9731029279,10,10,1
+13,VCTM2,oy43qmhh4ygiji6h,P1,8969867207,12,12,1
+14,VCTM2,2hei1ujb4ygiji6h,P1,2546683242,13,13,1
+15,VCTM2,82rwnj694ygiji6h,P1,1661641404,8,20,1
+16,VCTM2,dochqpq14ygiji6h,P1,1163424283,21,21,1
+17,VCTM2,523weprf4ygiji6h,P1,5492786804,11,11,1
+18,VCTM2,9yn8drsp4ygiji6h,P1,6848695283,6,6,1
+19,VCTM2,u14mp67a4ygiji6h,P1,7878492185,7,7,1
+20,VCTM2,tdgz4j4i4ygiji6h,P1,9539062804,8,8,1
+21,VCTM2,lmjoav7k4ygiji6h,P1,3372576530,11,11,1
+22,VCTM2,8ydxsq2y4ygiji6h,P1,3023768773,8,16,1
+23,VCTM2,0gael4bm4ygiji6h,P1,1549102309,9,30,1
+24,VCTM2,6xscrq6x4ygiji6h,P1,9493799419,9,9,1
+25,VCTM2,qv1fga614ygiji6h,P1,2005946173,29,29,1
+26,VCTM2,1819i4j84ygiji6h,P1,8584578950,8,8,1
+27,VCTM2,pk5ewhmf4ygiji6h,P1,2121995682,7,7,1
+28,VCTM2,93uw7r2z4ygiji6h,P1,4494817981,10,10,1
+29,VCTM2,d850z3hr4ygiji6h,P1,3903831880,7,7,1
+30,VCTM2,9fy47dql4ygiji6h,P1,6415603221,7,7,1
+31,VCTM2,ky1kymib4ygiji6h,P1,2923876750,7,28,1
+32,VCTM2,bltdx9o54ygiji6h,P1,4213470115,8,8,1
+33,VCTM2,n59bwkd64ygiji6h,P1,1109375355,1,30,1
+34,VCTM2,c69t66ei4ygiji6h,P1,5957570020,25,25,1
+35,VCTM2,x1j96z6f4ygiji6h,P1,9670298472,9,20,1
+36,VCTM2,197p5vhe4ygiji6h,P1,2555844261,10,24,1
+37,VCTM2,5d0oti354ygiji6h,P1,5778370290,6,6,1
+38,VCTM2,iv9n8ah64ygiji6h,P1,8851947150,14,14,1
+39,VCTM2,2re8a6je4ygiji6h,P1,6015727752,7,7,1
+40,VCTM2,uyprf7yi4ygiji6h,P1,1394737213,6,6,1
+41,VCTM2,umwfgpjv4ygiji6h,P1,4821293167,30,30,1
+42,VCTM2,6advomc74ygiji6h,P1,4207726966,7,7,1
+43,VCTM2,tnh6odkh4ygiji6h,P1,1588621975,8,8,1
+44,VCTM2,zn1fqypj4ygiji6h,P1,8002770216,14,14,1
+45,VCTM2,u2i262c84ygiji6h,P1,3206247853,10,10,1
+46,VCTM2,0t6s0k5d4ygiji6h,P1,1875620736,12,12,1
+47,VCTM2,cu6x42444ygiji6h,P1,4909476567,9,9,1
+48,VCTM2,4pu4p0pe4ygiji6h,P1,9229543956,9,9,1
+49,VCTM2,10wv7fnd4ygiji6h,P1,9502517222,11,11,1
+50,VCTM2,ousix7yy4ygiji6h,P1,7492235454,8,30,1
+51,VCTM2,k7rinup74ygiji6h,P1,1102954606,9,16,1
+52,VCTM2,zgm6uprm4ygiji6h,P1,5803413177,25,25,1
+53,VCTM2,nkuikcr64ygiji6h,P1,2557874328,11,11,1
+54,VCTM2,r3huqtke4ygiji6h,P1,9204913947,7,7,1
+55,VCTM2,5dv8qfve4ygiji6h,P1,5141290704,9,9,1
+56,VCTM2,qltn35z94ygiji6h,P1,8829656389,26,26,1
+57,VCTM2,rm04683i4ygiji6h,P1,7004840792,9,30,1
+58,VCTM2,628eobx24ygiji6h,P1,3586570780,13,13,1
+59,VCTM2,q1gc5kt84ygiji6h,P1,6294273637,7,20,1
+60,VCTM2,zjeasea64ygiji6h,P1,4244264708,1,1,1
+61,VCTM2,iq937iux4ygiji6h,P1,5504042639,10,10,1
+62,VCTM2,t4g8zj034ygiji6h,P1,7925033563,8,8,1
+63,VCTM2,snj7lcyy4ygiji6h,P1,2155117948,14,14,1
+64,VCTM2,8b3oirep4ygiji6h,P1,9886438161,6,6,1
+65,VCTM2,vruvvcig4ygiji6h,P1,4368069289,7,7,1
+66,VCTM2,q7zq00be4ygiji6h,P1,4204977413,10,10,1
+67,VCTM2,5wxyxv674ygiji6h,P1,4878771562,14,14,1
+68,VCTM2,7hti7an84ygiji6h,P1,7618471717,8,30,1
+69,VCTM2,w22ptaqt4ygiji6h,P1,7596150213,10,10,1
+70,VCTM2,9ydptpiq4ygiji6h,P1,9949078882,6,6,1
+71,VCTM2,10mnubl84ygiji6h,P1,6921526949,27,27,1
+72,VCTM2,dk6xrzpm4ygiji6h,P1,7271878225,11,11,1
+73,VCTM2,oz63ylz04ygiji6h,P1,9583715035,11,18,1
+74,VCTM2,48ywgros4ygiji6h,P1,6093880680,9,9,1
+75,VCTM2,3x8195ko4ygiji6h,P1,3571142735,9,9,1
+76,VCTM2,rigiwcn04ygiji6h,P1,9476534030,11,11,1
+77,VCTM2,z2ozolbr4ygiji6h,P1,9433135329,2,2,1
+78,VCTM2,kvk5i4ma4ygiji6h,P1,7452977423,12,12,1
+79,VCTM2,2rg6skpj4ygiji6h,P1,4790423992,8,8,1
+80,VCTM2,4uil1pkt4ygiji6h,P1,9452887339,9,9,1
+81,VCTM2,xlqlnh1i4ygiji6h,P1,8863244995,11,11,1
