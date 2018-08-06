@@ -62,7 +62,7 @@ class Player(BasePlayer):
     report_1 = models.IntegerField(min=Constants.min_report, max=Constants.max_report) # Choice player 1
     report_2 = models.IntegerField(min=Constants.min_report, max=Constants.max_report) # Choice player 2
     report_3 = models.IntegerField(min=Constants.min_report, max=Constants.max_report) # Choice player 3
-    exo_click = models.BooleanField() # Player 3 verifies
+    exo_click = models.IntegerField() # Player 3 verifies
     endo_click = models.BooleanField() # Player 3 verifies
     inst_show = models.BooleanField(blank=True,)
     p_code = models.StringField(),
