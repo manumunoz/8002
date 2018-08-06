@@ -10,12 +10,12 @@ import csv
 author = 'Manu Munoz-Herrera'
 
 doc = """
-Web of Lies P2_VCTM3
+Web of Lies P2_VCTM5
 """
 
 
 class Constants(BaseConstants):
-    name_in_url = 'MTurk_P2_vctm3'
+    name_in_url = 'MTurk_P2_vctm5'
     players_per_group = None
     num_rounds = 1
     exchange_rate=c(3)
@@ -23,18 +23,18 @@ class Constants(BaseConstants):
     min_report = 1
     max_report = 30
     num_blocks = 144
-    instructions_template= 'p2_vctm3/Instructions.html'
-    instructions_beliefs = 'p2_vctm3/InstructionsBeliefs.html'
-    instructions_belief_number = 'p2_vctm3/Instbeliefnumber.html'
-    instructions_belief_hiddennumber = 'p2_vctm3/Instbeliefhiddennumber.html'
-    instructions_belief_yesno = 'p2_vctm3/Instbeliefyesno.html'
+    instructions_template= 'p2_vctm5/Instructions.html'
+    instructions_beliefs = 'p2_vctm5/InstructionsBeliefs.html'
+    instructions_belief_number = 'p2_vctm5/Instbeliefnumber.html'
+    instructions_belief_hiddennumber = 'p2_vctm5/Instbeliefhiddennumber.html'
+    instructions_belief_yesno = 'p2_vctm5/Instbeliefyesno.html'
     exo_prob_show = 80 # Complete for EXO once ENDO is conducted
     exo_prob_no_show = 20 # Complete for EXO once ENDO is conducted
     payment_days = 30
     show_up_fee = 1
     total_pay = 2.70
 
-    with open('p2_vctm3/imp_p1_vctm3.csv', 'r') as f:
+    with open('p2_vctm5/imp_p1_vctm5.csv', 'r') as f:
         reader = csv.reader(f)
         data_player1 = list(reader)
 
