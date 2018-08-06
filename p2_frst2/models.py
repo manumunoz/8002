@@ -38,10 +38,8 @@ class Constants(BaseConstants):
         reader = csv.reader(f)
         data_player1 = list(reader)
 
-
 class Subsession(BaseSubsession):
     def creating_session(self):
-
         treat = itertools.cycle([6,7,8,9,10])
             # for p in self.get_players():
             #     p.treat = next(treat)
