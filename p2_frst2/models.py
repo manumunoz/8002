@@ -61,6 +61,7 @@ class Player(BasePlayer):
     pnum = models.IntegerField(min=Constants.min_report, max=Constants.num_blocks)
     report_1 = models.IntegerField(min=Constants.min_report, max=Constants.max_report) # Choice player 1
     report_2 = models.IntegerField(min=Constants.min_report, max=Constants.max_report) # Choice player 2
+    report_3 = models.IntegerField(min=Constants.min_report, max=Constants.max_report) # Choice player 3
     exo_click = models.BooleanField() # Player 3 verifies
     endo_click = models.BooleanField() # Player 3 verifies
     random_show = models.IntegerField() # Randomly generated number
