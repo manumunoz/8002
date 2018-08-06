@@ -82,7 +82,7 @@ class Player(BasePlayer):
 
     def random_display(self):
         self.random_show = random.randint(1, 100)
-        if self.round_number <= Constants.exo_prob_show:
+        if self.random_show <= Constants.exo_prob_show:
             self.exo_click = 1
         else:
             self.exo_click = 0
