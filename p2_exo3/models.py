@@ -34,7 +34,7 @@ class Constants(BaseConstants):
     show_up_fee = 1
     total_pay = 2.70
 
-    with open('p2_exo3/imp_p1_exo3a.csv', 'r') as f:
+    with open('p2_exo3/imp_p1_exo3_b.csv', 'r') as f:
         reader = csv.reader(f)
         data_player1 = list(reader)
 
