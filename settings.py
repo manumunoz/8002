@@ -131,27 +131,6 @@ SESSION_CONFIG_DEFAULTS = {
 
 SESSION_CONFIGS = [
     {
-        'name': 'p2_no3',
-        'display_name': "p2_no3",
-        'num_demo_participants': 8,
-        'app_sequence': ['p2_no3'],
-        'treatment': 2,
-    },
-    {
-        'name': 'p2_vctm3',
-        'display_name': "p2_vctm3",
-        'num_demo_participants': 8,
-        'app_sequence': ['p2_vctm3'],
-        'treatment': 5,
-    },
-    {
-        'name': 'p2_no2',
-        'display_name': "p2_no2",
-        'num_demo_participants': 8,
-        'app_sequence': ['p2_no2'],
-        'treatment': 7,
-    },
-    {
         'name': 'p2_exo2',
         'display_name': "p2_exo2",
         'num_demo_participants': 8,
@@ -171,13 +150,6 @@ SESSION_CONFIGS = [
         'num_demo_participants': 8,
         'app_sequence': ['p2_vctm2'],
         'treatment': 10,
-    },
-    {
-        'name': 'p2_vctm5',
-        'display_name': "p2_vctm5",
-        'num_demo_participants': 8,
-        'app_sequence': ['p2_vctm5'],
-        'treatment': 11,
     },
 ]
 

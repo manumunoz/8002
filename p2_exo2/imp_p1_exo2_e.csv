@@ -1,0 +1,13 @@
+id,treat,code_pay,role,group,hidden_number,report1,duplicate,id_play,ranking
+1,EXO2,p2session5data,P2,8692471146,9,9,1,1,1
+2,EXO2,p2session5data,P2,9967902287,8,8,1,6,2
+3,EXO2,p2session5data,P2,6573520607,8,8,1,5,2
+4,EXO2,p2session5data,P2,6149836000,10,10,1,,3
+5,EXO2,p2session5data,P2,3715444280,10,10,1,,3
+6,EXO2,p2session5data,P2,2364409399,10,10,1,,3
+7,EXO2,p2session5data,P2,2364409399,10,10,2,,3
+8,EXO2,p2session5data,P2,3715444280,10,10,2,,3
+9,EXO2,p2session5data,P2,6149836000,10,10,2,,3
+10,EXO2,p2session5data,P2,6573520607,8,8,2,5,2
+11,EXO2,p2session5data,P2,9967902287,8,8,2,6,2
+12,EXO2,p2session5data,P2,8692471146,9,9,2,1,1
