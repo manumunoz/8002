@@ -131,13 +131,6 @@ SESSION_CONFIG_DEFAULTS = {
 
 SESSION_CONFIGS = [
     {
-        'name': 'p2_exo2',
-        'display_name': "p2_exo2",
-        'num_demo_participants': 8,
-        'app_sequence': ['p2_exo2'],
-        'treatment': 8,
-    },
-    {
         'name': 'p2_endo2',
         'display_name': "p2_endo2",
         'num_demo_participants': 8,
