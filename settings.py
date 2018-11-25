@@ -131,18 +131,25 @@ SESSION_CONFIG_DEFAULTS = {
 
 SESSION_CONFIGS = [
     {
-        'name': 'p2_endo2',
-        'display_name': "p2_endo2",
-        'num_demo_participants': 8,
-        'app_sequence': ['p2_endo2'],
-        'treatment': 9,
+        'name': 'p1_no3',
+        'display_name': "p1_no3",
+        'num_demo_participants': 1,
+        'app_sequence': ['p1_no3'],
+        'treatment': 2,
     },
     {
-        'name': 'p2_vctm2',
-        'display_name': "p2_vctm2",
-        'num_demo_participants': 8,
-        'app_sequence': ['p2_vctm2'],
-        'treatment': 10,
+        'name': 'p2_no3',
+        'display_name': "p2_no3",
+        'num_demo_participants': 1,
+        'app_sequence': ['p2_no3'],
+        'treatment': 2,
+    },
+    {
+        'name': 'p3_no3',
+        'display_name': "p3_no3",
+        'num_demo_participants': 1,
+        'app_sequence': ['p3_no3'],
+        'treatment': 2,
     },
 ]
 
